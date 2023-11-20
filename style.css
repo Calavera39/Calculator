@@ -55,6 +55,6 @@ button:hover{
 
 @media (max-width: 400px) {
     .calclutot-grid {
-        align-content: flex-end;
+        align-content: flex-start;
     }
 }
